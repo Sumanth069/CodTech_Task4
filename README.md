@@ -12,6 +12,8 @@ Duration : 12 Weeks
 
 Mentor : Neela Santhosh
 
+##
+
 
 This project implements a user-based recommendation system using Java and Apache Mahout.
 The system suggests products or content to users based on the preferences and ratings of similar users.
