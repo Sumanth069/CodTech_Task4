@@ -71,4 +71,10 @@ mvn exec:java
 This project demonstrates how collaborative filtering works in recommendation systems using Java and Apache Mahout.
 It provides a solid foundation for understanding how real-world recommendation engines operate.
 
-VS Code
+
+
+# Output
+
+<img width="1132" height="509" alt="Image" src="https://github.com/user-attachments/assets/96edf48f-d951-441e-9e9d-9070514454f2" />
+
+<img width="1089" height="462" alt="Image" src="https://github.com/user-attachments/assets/11541dd0-ff2e-41f8-b670-341b62f9e8fe" />
